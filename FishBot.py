@@ -9,6 +9,7 @@ def zarzut():
     sleep(0.4)
     pyautogui.mouseUp()
     print("Zarzut")
+    sleep(0.5)
 def zlow():
     pyautogui.mouseDown()
     sleep(0.05)
